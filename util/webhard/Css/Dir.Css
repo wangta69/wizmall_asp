@@ -1,0 +1,27 @@
+body {font-family:verdana, arial; font-size:8pt; margin:2px;}
+p {font-family:verdana, arial; font-size:8pt}
+a		{font-family:verdana, arial; font-size:8pt; text-decoration:none;}
+a:hover		{font-family:verdana, arial; font-size:8pt; color:red; text-decoration:none; Font-weight:bold;}
+a:link		{font-family:verdana, arial; font-size:8pt; color:blue; text-decoration:none;}
+a:visited		{font-family:verdana, arial; font-size:8pt; color:blue; text-decoration:none;}
+textarea		{font-family:verdana, arial; Border:#654321 1px solid; Padding:01px; Font-Size:8pt;	BackGround-image:URL('/Dir/image/text_line.gif');}
+select		{font-family:verdana, arial; Border:#654321 1px solid; Padding:01px; Font-Size:8pt;}
+table		{font-family:verdana, arial; Padding:0px; Font-Size:8pt;}
+
+
+.er {BackGround-Color:#FFCC00;}
+.ck {BackGround-Color:#F0F0F0;}
+.sp {Font-Family:verdana, arial; Font-Size:1px;}
+.oh	{Font-Family:verdana, arial; font-size:10pt; color:Blue;}
+.big	{Font-Family:verdana, arial; font-size:13pt; color:#FF9900; Font-weight:bold;}
+
+.Forders {font-family:Verdana, Arial; font-size:8pt; Font-weight:bold}
+.Files {font-family:Verdana, Arial; font-size:8pt}
+
+.td_T{ BackGround-image:URL('./image/bg.jpg');
+.td_0		{BackGround-Color:#FFCC00;}
+.td_A		{BackGround-Color:#FFCC00;}
+.td_B		{BackGround-Color:#E7E7E7;}
+.td_C		{BackGround-Color:#F9F9F9;}
+.td_D		{BackGround-Color:#999999;}
+.td_Z		{BackGround-Color:#FFFFFF;}

@@ -1,0 +1,46 @@
+body,td,select,input,div,form,textarea,center,option,pre,blockquote {font-size:12px; font-family:"굴림", "굴림체"; color:#666666;line-height:18px}
+
+body
+{
+scrollbar-face-color: #ECECE3; scrollbar-shadow-color: #CCCCC; scrollbar-highlight-color: #CCCCC; 
+scrollbar-3dlight-color: #CCCCC; scrollbar-darkshadow-color: #FFFFFF; 
+scrollbar-track-color: #CCCCC; scrollbar-arrow-color: #1B1B1B
+}
+
+.maintxt {
+	font-family: "굴림";
+	font-size: 12px;
+	line-height: 18px;
+	color: 666666;
+	text-decoration: none;
+}
+a:link {
+	font-family: "굴림";
+        font-size: 12px;
+	line-height: 18px;
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	font-family: "굴림";
+        font-size: 12px;
+	line-height: 18px;
+	color: #666666;
+	text-decoration: none;
+}
+a:hover {
+	font-family: "굴림";
+        font-size: 12px;
+	line-height: 18px;
+	color: #56AB12;
+	text-decoration: none;
+}
+
+
+
+.small {
+	font-family: "돋움";
+	font-size: 11px;
+	color: #999999;
+	text-decoration: none;
+}

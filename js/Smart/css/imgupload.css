@@ -1,0 +1,73 @@
+IMG
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+TD
+{
+    FONT-SIZE: 12px;
+    COLOR: #444444;
+    FONT-FAMILY: ?뗭?,Dotum,AppleGothic,sans-serif
+}
+BODY
+{
+    FONT-SIZE: 12px;
+    COLOR: #444444;
+    FONT-FAMILY: ?뗭?,Dotum,AppleGothic,sans-serif
+}
+
+.pic_content
+{
+    BORDER-RIGHT: #c5c5c5 1px solid;
+    PADDING-RIGHT: 7px;
+    BORDER-TOP: #c5c5c5 1px solid;
+    PADDING-LEFT: 7px;
+    PADDING-BOTTOM: 7px;
+    BORDER-LEFT: #c5c5c5 1px solid;
+    PADDING-TOP: 7px;
+    BORDER-BOTTOM: #c5c5c5 1px solid;
+    BACKGROUND-COLOR: #fbfbfb;
+    TEXT-ALIGN: center
+}
+.pic_content .search
+{
+    PADDING-BOTTOM: 7px! important
+}
+.pic_content .search INPUT
+{
+    BORDER-RIGHT: #d8d8d8 1px solid;
+    BORDER-TOP: #989898 1px solid;
+    BORDER-LEFT: #989898 1px solid;
+    BORDER-BOTTOM: #d8d8d8 1px solid
+}
+.pic_content .pic_area
+{
+    BORDER-RIGHT: #e6e7e6 1px solid;
+    BORDER-TOP: #e6e7e6 1px solid;
+    BACKGROUND: url(http://static.naver.com/mail4/editor/txt_view.gif) no-repeat center 50%;
+    BORDER-LEFT: #e6e7e6 1px solid;
+    WIDTH: 222px;
+    BORDER-BOTTOM: #e6e7e6 1px solid;
+    HEIGHT: 145px
+}
+.pic_content .btn_box
+{
+    BORDER-RIGHT: 0px;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 3px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    PADDING-TOP: 7px;
+    BORDER-BOTTOM: 0px;
+    TEXT-ALIGN: center
+}
+.pic_content .btn_box IMG
+{
+    MARGIN: 0px
+}
+
+

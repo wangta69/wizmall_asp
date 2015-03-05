@@ -1,0 +1,19 @@
+<!-- #include file = "../../../lib/cfg.common.asp" -->
+<%
+dim gid, bid, filename
+gid			= Request("gid")
+bid			= Request("bid")
+filename	= Request("filename")
+%>
+<HTML>
+<head>
+<TITLE>이미지상세보기</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=<%=cfg.Item("lan")%>">
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a href="javascript:window.close();"> 
+                  <img src='../../../config/wizboard_group/<%=gid%>/<%=bid%>/attached/<%=filename%>' name="GoodsBigPic" width="600" height="400" border="0" style="filter:blendTrans(duration=0.5)"></a>
+</body>
+</html>

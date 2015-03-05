@@ -1,0 +1,18 @@
+body   
+{scrollbar-face-color: #ffffff; 
+scrollbar-shadow-color: #8EA4BF; 
+scrollbar-highlight-color: #ffffff; 
+scrollbar-3dlight-color: #ffffff; 
+scrollbar-darkshadow-color: #E0E0E0; 
+scrollbar-track-color: #F3F3F3; 
+scrollbar-arrow-color: #008FCA}
+.font_1 {  font-family: "돋움"; font-size: 12px; font-style: normal; font-weight: normal; font-variant: normal; color: 636563}
+
+A.navigation:link {
+	FONT-SIZE: 12px; COLOR: #636563; FONT-FAMILY: 돋움,굴림; TEXT-DECORATION: none
+}
+A.navigation:visited {
+	FONT-SIZE: 12px; COLOR: #636563; FONT-FAMILY: 돋움,굴림; TEXT-DECORATION: none
+}
+A.navigation:hover {
+	FONT-SIZE: 12px; COLOR: #FF3000; FONT-FAMILY: "돋움,굴림";	}

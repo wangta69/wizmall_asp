@@ -1,0 +1,50 @@
+/***************** 선에 관한 Class **********/
+.LINE_N		{Border:#FFFFFF 0px solid;}
+
+.LINE_A_A		{Border:#EEEEEE 1px solid; }
+.LINE_A_B		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_L		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_LB		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_LR		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 1px solid; }
+.LINE_A_NB		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 1px solid; }
+.LINE_A_NL		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 1px solid; }
+.LINE_A_NR		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_NT		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 1px solid; }
+.LINE_A_R		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 1px solid; }
+.LINE_A_RB		{Border-Top:#EEEEEE 0px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 1px solid; }
+.LINE_A_T		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_TB		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 1px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_TL		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 1px solid; Border-Right:#EEEEEE 0px solid; }
+.LINE_A_TR		{Border-Top:#EEEEEE 1px solid; Border-Bottom:#EEEEEE 0px solid; Border-Left:#EEEEEE 0px solid; Border-Right:#EEEEEE 1px solid; }
+
+.LINE_B_A		{Border:#999999 1px solid; }
+.LINE_B_B		{Border-Top:#999999 0px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 0px solid; Border-Right:#999999 0px solid; }
+.LINE_B_L		{Border-Top:#999999 0px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 1px solid; Border-Right:#999999 0px solid; }
+.LINE_B_LB		{Border-Top:#999999 0px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 1px solid; Border-Right:#999999 0px solid; }
+.LINE_B_LR		{Border-Top:#999999 0px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 1px solid; Border-Right:#999999 1px solid; }
+.LINE_B_NB		{Border-Top:#999999 1px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 1px solid; Border-Right:#999999 1px solid; }
+.LINE_B_NL		{Border-Top:#999999 1px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 0px solid; Border-Right:#999999 1px solid; }
+.LINE_B_NR		{Border-Top:#999999 1px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 1px solid; Border-Right:#999999 0px solid; }
+.LINE_B_NT		{Border-Top:#999999 0px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 1px solid; Border-Right:#999999 1px solid; }
+.LINE_B_R		{Border-Top:#999999 0px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 0px solid; Border-Right:#999999 1px solid; }
+.LINE_B_RB		{Border-Top:#999999 0px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 0px solid; Border-Right:#999999 1px solid; }
+.LINE_B_T		{Border-Top:#999999 1px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 0px solid; Border-Right:#999999 0px solid; }
+.LINE_B_TB		{Border-Top:#999999 1px solid; Border-Bottom:#999999 1px solid; Border-Left:#999999 0px solid; Border-Right:#999999 0px solid; }
+.LINE_B_TL		{Border-Top:#999999 1px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 1px solid; Border-Right:#999999 0px solid; }
+.LINE_B_TR		{Border-Top:#999999 1px solid; Border-Bottom:#999999 0px solid; Border-Left:#999999 0px solid; Border-Right:#999999 1px solid; }
+
+.LINE_C_A		{Border:#000000 1px solid; }
+.LINE_C_B		{Border-Top:#000000 0px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 0px solid; Border-Right:#000000 0px solid; }
+.LINE_C_L		{Border-Top:#000000 0px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 1px solid; Border-Right:#000000 0px solid; }
+.LINE_C_LB		{Border-Top:#000000 0px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 1px solid; Border-Right:#000000 0px solid; }
+.LINE_C_LR		{Border-Top:#000000 0px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 1px solid; Border-Right:#000000 1px solid; }
+.LINE_C_NB		{Border-Top:#000000 1px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 1px solid; Border-Right:#000000 1px solid; }
+.LINE_C_NL		{Border-Top:#000000 1px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 0px solid; Border-Right:#000000 1px solid; }
+.LINE_C_NR		{Border-Top:#000000 1px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 1px solid; Border-Right:#000000 0px solid; }
+.LINE_C_NT		{Border-Top:#000000 0px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 1px solid; Border-Right:#000000 1px solid; }
+.LINE_C_R		{Border-Top:#000000 0px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 0px solid; Border-Right:#000000 1px solid; }
+.LINE_C_RB		{Border-Top:#000000 0px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 0px solid; Border-Right:#000000 1px solid; }
+.LINE_C_T		{Border-Top:#000000 1px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 0px solid; Border-Right:#000000 0px solid; }
+.LINE_C_TB		{Border-Top:#000000 1px solid; Border-Bottom:#000000 1px solid; Border-Left:#000000 0px solid; Border-Right:#000000 0px solid; }
+.LINE_C_TL		{Border-Top:#000000 1px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 1px solid; Border-Right:#000000 0px solid; }
+.LINE_C_TR		{Border-Top:#000000 1px solid; Border-Bottom:#000000 0px solid; Border-Left:#000000 0px solid; Border-Right:#000000 1px solid; }
